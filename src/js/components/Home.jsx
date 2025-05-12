@@ -6,7 +6,7 @@ import { Footer } from "./Footer";
 
 const Home = () => {
 	return (
-		<div className="container-fluid text-center">
+		<div className="text-center">
 			<Header />
 			<Content />
 			<Footer />
